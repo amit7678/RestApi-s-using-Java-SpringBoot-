@@ -3,7 +3,7 @@ Overview
  This API is built using Spring Boot and adheres to Java 8 best practices.
 
 Project Structure
-  The project consists of two main components:
+  The project consists of four main components:
 
 1. Book Entity: Represents the book data model.
 2. Book Service: Contains business logic for handling book operations.
